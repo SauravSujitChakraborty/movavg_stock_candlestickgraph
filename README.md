@@ -1,2 +1,2 @@
 # movavg_stock_candlestickgraph
-This project was made by me on June 2017 but due to unavoidable circumstances, it has been added to github on Jan 28,2026
+/*** This project was originally developed and completed in June 2017. The source code was preserved privately and officially uploaded to this GitHub repository on January 28, 2026, for public archiving and sharing. ***/
